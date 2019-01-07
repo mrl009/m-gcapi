@@ -1,0 +1,383 @@
+{
+  "paname" : "新白云机场",
+  "plist" : [
+    {
+      "cnum" : 0,
+      "displace" : "1.5L",
+      "dprice" : 114,
+      "isrec" : false,
+      "pid" : "13835",
+      "pimg" : "//pic.c-ctrip.com/car_isd/vi/app/303.jpg",
+      "pname" : "雪佛兰科鲁兹",
+      "seat" : 5,
+      "slist" : [
+        {
+          "activitylabel" : "",
+          "ativities" : [],
+          "bprice" : 0,
+          "ccount" : 6,
+          "cprice" : 114,
+          "csname" : "一嗨租车",
+          "ctripvendortype" : 1,
+          "discountlabel" : "",
+          "dist" : 3.0542,
+          "dprice" : 114,
+          "ilist" : [],
+          "issend" : false,
+          "isvcar" : false,
+          "lablist" : [
+            {
+              "desc" : "机场、火车站，或离距离门店5km范围内的地方取还车，将提供免费接送服务\t",
+              "id" : "4",
+              "name" : "免费接送",
+              "type" : 1
+            }
+          ],
+          "lat" : 23.359963,
+          "lng" : 113.293374,
+          "lv" : 1,
+          "noStock" : false,
+          "oprice" : 228,
+          "pid" : 6639,
+          "pricelist" : [],
+          "pricetype" : 1,
+          "rsid" : 944,
+          "saddress" : "广州市白云区人和镇矮岗村岗华路梧桐居",
+          "score" : 4.3,
+          "sid" : 944,
+          "sname" : "白云机场店",
+          "vdegree" : "-1",
+          "vendorlabel" : [],
+          "vid" : 9787,
+          "vname" : "一嗨租车"
+        }
+      ],
+      "stocklabel" : "",
+      "trans" : 1
+    },
+    {
+      "cnum" : 0,
+      "displace" : "1.6L",
+      "dprice" : 118,
+      "isrec" : false,
+      "pid" : "10831",
+      "pimg" : "//pic.c-ctrip.com/car_isd/vi/app/bz308s.jpg",
+      "pname" : "标致2008",
+      "seat" : 5,
+      "slist" : [
+        {
+          "activitylabel" : "",
+          "ativities" : [],
+          "bprice" : 0,
+          "ccount" : 77,
+          "cprice" : 118,
+          "csname" : "一嗨租车",
+          "ctripvendortype" : 1,
+          "discountlabel" : "",
+          "dist" : 3.0542,
+          "dprice" : 118,
+          "ilist" : [],
+          "issend" : false,
+          "isvcar" : false,
+          "lablist" : [
+            {
+              "desc" : "机场、火车站，或离距离门店5km范围内的地方取还车，将提供免费接送服务\t",
+              "id" : "4",
+              "name" : "免费接送",
+              "type" : 1
+            }
+          ],
+          "lat" : 23.359963,
+          "lng" : 113.293374,
+          "lv" : 1,
+          "noStock" : false,
+          "oprice" : 236,
+          "pid" : 4827,
+          "pricelist" : [],
+          "pricetype" : 1,
+          "rsid" : 944,
+          "saddress" : "广州市白云区人和镇矮岗村岗华路梧桐居",
+          "score" : 4.3,
+          "sid" : 944,
+          "sname" : "白云机场店",
+          "vdegree" : "-1",
+          "vendorlabel" : [],
+          "vid" : 9787,
+          "vname" : "一嗨租车"
+        }
+      ],
+      "stocklabel" : "",
+      "trans" : 1
+    },
+    {
+      "cnum" : 4,
+      "displace" : "1.5T",
+      "dprice" : 118,
+      "isrec" : false,
+      "pid" : "1160",
+      "pimg" : "//pic.c-ctrip.com/car_isd/vi/app/mggs.jpg",
+      "pname" : "MGGS",
+      "seat" : 5,
+      "slist" : [
+        {
+          "activitylabel" : "",
+          "ativities" : [],
+          "bprice" : 0,
+          "ccount" : 8,
+          "cprice" : 118,
+          "csname" : "一嗨租车",
+          "ctripvendortype" : 1,
+          "discountlabel" : "",
+          "dist" : 3.0542,
+          "dprice" : 118,
+          "ilist" : [],
+          "issend" : false,
+          "isvcar" : false,
+          "lablist" : [
+            {
+              "desc" : "机场、火车站，或离距离门店5km范围内的地方取还车，将提供免费接送服务\t",
+              "id" : "4",
+              "name" : "免费接送",
+              "type" : 1
+            }
+          ],
+          "lat" : 23.359963,
+          "lng" : 113.293374,
+          "lv" : 1,
+          "noStock" : false,
+          "oprice" : 236,
+          "pid" : 6638,
+          "pricelist" : [],
+          "pricetype" : 1,
+          "rsid" : 944,
+          "saddress" : "广州市白云区人和镇矮岗村岗华路梧桐居",
+          "score" : 4.3,
+          "sid" : 944,
+          "sname" : "白云机场店",
+          "vdegree" : "-1",
+          "vendorlabel" : [],
+          "vid" : 9787,
+          "vname" : "一嗨租车"
+        }
+      ],
+      "stocklabel" : "",
+      "trans" : 1
+    },
+    {
+      "cnum" : 0,
+      "displace" : "1.5L",
+      "dprice" : 119,
+      "isrec" : false,
+      "pid" : "13425",
+      "pimg" : "//pic.c-ctrip.com/car_isd/vi/app/265.jpg",
+      "pname" : "荣威550",
+      "seat" : 5,
+      "slist" : [
+        {
+          "activitylabel" : "",
+          "ativities" : [],
+          "bprice" : 0,
+          "ccount" : 21,
+          "cprice" : 119,
+          "csname" : "一嗨租车",
+          "ctripvendortype" : 1,
+          "discountlabel" : "",
+          "dist" : 3.0542,
+          "dprice" : 119,
+          "ilist" : [],
+          "issend" : false,
+          "isvcar" : false,
+          "lablist" : [
+            {
+              "desc" : "机场、火车站，或离距离门店5km范围内的地方取还车，将提供免费接送服务\t",
+              "id" : "4",
+              "name" : "免费接送",
+              "type" : 1
+            }
+          ],
+          "lat" : 23.359963,
+          "lng" : 113.293374,
+          "lv" : 1,
+          "noStock" : false,
+          "oprice" : 238,
+          "pid" : 8699,
+          "pricelist" : [],
+          "pricetype" : 1,
+          "rsid" : 944,
+          "saddress" : "广州市白云区人和镇矮岗村岗华路梧桐居",
+          "score" : 4.3,
+          "sid" : 944,
+          "sname" : "白云机场店",
+          "vdegree" : "-1",
+          "vendorlabel" : [],
+          "vid" : 9787,
+          "vname" : "一嗨租车"
+        }
+      ],
+      "stocklabel" : "",
+      "trans" : 1
+    },
+    {
+      "cnum" : 0,
+      "displace" : "1.6T",
+      "dprice" : 228,
+      "isrec" : false,
+      "pid" : "10835",
+      "pimg" : "//pic.c-ctrip.com/car_isd/vi/app/69.jpg",
+      "pname" : "标致3008",
+      "seat" : 5,
+      "slist" : [
+        {
+          "activitylabel" : "",
+          "ativities" : [],
+          "bprice" : 0,
+          "ccount" : 16,
+          "cprice" : 228,
+          "csname" : "一嗨租车",
+          "ctripvendortype" : 1,
+          "discountlabel" : "",
+          "dist" : 3.0542,
+          "dprice" : 228,
+          "ilist" : [],
+          "issend" : false,
+          "isvcar" : false,
+          "lablist" : [
+            {
+              "desc" : "机场、火车站，或离距离门店5km范围内的地方取还车，将提供免费接送服务\t",
+              "id" : "4",
+              "name" : "免费接送",
+              "type" : 1
+            }
+          ],
+          "lat" : 23.359963,
+          "lng" : 113.293374,
+          "lv" : 1,
+          "noStock" : false,
+          "oprice" : 456,
+          "pid" : 7603,
+          "pricelist" : [],
+          "pricetype" : 1,
+          "rsid" : 944,
+          "saddress" : "广州市白云区人和镇矮岗村岗华路梧桐居",
+          "score" : 4.3,
+          "sid" : 944,
+          "sname" : "白云机场店",
+          "vdegree" : "-1",
+          "vendorlabel" : [],
+          "vid" : 9787,
+          "vname" : "一嗨租车"
+        }
+      ],
+      "stocklabel" : "",
+      "trans" : 1
+    },
+    {
+      "cnum" : 0,
+      "displace" : "2.0L",
+      "dprice" : 428,
+      "isrec" : false,
+      "pid" : "12319",
+      "pimg" : "//pic.c-ctrip.com/car_isd/vi/app/198.jpg",
+      "pname" : "江淮瑞风",
+      "seat" : 7,
+      "slist" : [
+        {
+          "activitylabel" : "",
+          "ativities" : [],
+          "bprice" : 0,
+          "ccount" : 1,
+          "cprice" : 428,
+          "csname" : "一嗨租车",
+          "ctripvendortype" : 1,
+          "discountlabel" : "",
+          "dist" : 3.0542,
+          "dprice" : 428,
+          "ilist" : [],
+          "issend" : false,
+          "isvcar" : false,
+          "lablist" : [
+            {
+              "desc" : "机场、火车站，或离距离门店5km范围内的地方取还车，将提供免费接送服务\t",
+              "id" : "4",
+              "name" : "免费接送",
+              "type" : 1
+            }
+          ],
+          "lat" : 23.359963,
+          "lng" : 113.293374,
+          "lv" : 1,
+          "noStock" : false,
+          "oprice" : 856,
+          "pid" : 114,
+          "pricelist" : [],
+          "pricetype" : 1,
+          "rsid" : 944,
+          "saddress" : "广州市白云区人和镇矮岗村岗华路梧桐居",
+          "score" : 4.3,
+          "sid" : 944,
+          "sname" : "白云机场店",
+          "vdegree" : "-1",
+          "vendorlabel" : [],
+          "vid" : 9787,
+          "vname" : "一嗨租车"
+        }
+      ],
+      "stocklabel" : "",
+      "trans" : 2
+    },
+    {
+      "cnum" : 0,
+      "displace" : "2.5L",
+      "dprice" : 589,
+      "isrec" : false,
+      "pid" : "14034",
+      "pimg" : "//pic.c-ctrip.com/car_isd/vi/app/QX50.jpg",
+      "pname" : "英菲尼迪QX50",
+      "seat" : 5,
+      "slist" : [
+        {
+          "activitylabel" : "",
+          "ativities" : [],
+          "bprice" : 0,
+          "ccount" : 2,
+          "cprice" : 589,
+          "csname" : "一嗨租车",
+          "ctripvendortype" : 1,
+          "discountlabel" : "",
+          "dist" : 3.0542,
+          "dprice" : 589,
+          "ilist" : [],
+          "issend" : false,
+          "isvcar" : false,
+          "lablist" : [
+            {
+              "desc" : "机场、火车站，或离距离门店5km范围内的地方取还车，将提供免费接送服务\t",
+              "id" : "4",
+              "name" : "免费接送",
+              "type" : 1
+            }
+          ],
+          "lat" : 23.359963,
+          "lng" : 113.293374,
+          "lv" : 1,
+          "noStock" : false,
+          "oprice" : 1178,
+          "pid" : 17969,
+          "pricelist" : [],
+          "pricetype" : 1,
+          "rsid" : 944,
+          "saddress" : "广州市白云区人和镇矮岗村岗华路梧桐居",
+          "score" : 4.3,
+          "sid" : 944,
+          "sname" : "白云机场店",
+          "vdegree" : "-1",
+          "vendorlabel" : [],
+          "vid" : 9787,
+          "vname" : "一嗨租车"
+        }
+      ],
+      "stocklabel" : "",
+      "trans" : 1
+    }
+  ]
+}

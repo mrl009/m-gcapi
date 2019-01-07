@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/css/mui.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/base.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/css/mymui.css"/>
+    <script src="/static/js/jquery.min.js"></script>
+</head>
+<body>
+
+
+        <link rel="stylesheet" href="/static/css/mui.min.css">
+        <link rel="stylesheet" type="text/css" href="/static/css/base.css"/>
+        <link rel="stylesheet" type="text/css" href="/static/css/mymui.css"/>
+        <script src="/static/js/jquery.min.js"></script>
+
+    <div class="bet_content">
+        <div class="mt50 error_inf">
+            <img src="/static/images/error2.png" alt="" class="error_img"/>
+        </div>
+        <p class="error_font"><?php echo $msg;?></p>
+        <button type="button" class="mui-btn  mui-btn-block button_color c_white bet_button" id="sure">确认</button>
+    </div>
+
+<script type="text/javascript">
+    $(function(){
+        $('#nextBtn').click(function(){
+            <?php echo $jsstr;?>
+            //JavaScript:window.location.href="http://www.baidu.com";
+            });
+            function getURL(){
+
+            };
+            })
+</script>
+</body>
+</html>

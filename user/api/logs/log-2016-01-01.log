@@ -1,0 +1,96 @@
+ERROR - 2016-01-01 08:09:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:04 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:04 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:04 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:04 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:04 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:04 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:04 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:09:04 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:09:04 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:09:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:06 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:06 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:06 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:06 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:06 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:09:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:06 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:09:06 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:06 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:06 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:06 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:06 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:06 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:06 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:06 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:06 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:09:06 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:09:06 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:09:06 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:09:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:11 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:11 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:11 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:09:11 --> Unable to connect to the database
+ERROR - 2016-01-01 08:09:11 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:11 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:09:11 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:11 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:09:11 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:09:11 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:03 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:03 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:03 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:03 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:03 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:03 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:03 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:03 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:03 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:03 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:03 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:03 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:05 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:05 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:05 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:05 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:05 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:05 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:05 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:05 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:05 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:05 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:05 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:05 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:05 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:05 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:05 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:05 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:05 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:05 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:05 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:05 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:05 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:05 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:05 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:05 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:10 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:10 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:10 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:10 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:10 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /Users/mr.xiaolin/mnmp/gcapi/sys/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2016-01-01 08:10:10 --> Unable to connect to the database
+ERROR - 2016-01-01 08:10:10 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:10 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:10 --> Cache: Failed to create Redis object; extension not loaded?
+ERROR - 2016-01-01 08:10:10 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:10 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302
+ERROR - 2016-01-01 08:10:10 --> Severity: error --> Exception: No such method: select() /Users/mr.xiaolin/mnmp/gcapi/sys/libraries/Driver.php 302

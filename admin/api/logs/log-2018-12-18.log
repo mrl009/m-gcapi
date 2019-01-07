@@ -1,0 +1,74 @@
+ERROR - 2018-12-18 09:49:45 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:49:52 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:49:59 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:49:59 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:07 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:07 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:07 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:13 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:19 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:19 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:25 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:25 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:25 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:25 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:32 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:32 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:32 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:38 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:38 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:43 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:43 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:51 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:50:51 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:51:04 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:51:19 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:51:19 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:51:19 --> Query error: Out of range value for column 'd3_rate' at row 1 - Invalid query: UPDATE `gc_reward_day` SET `d1_rate` = '0.1', `d2_rate` = '0.2', `d3_rate` = '2.0'
+WHERE `id` = '1'
+ERROR - 2018-12-18 09:51:26 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:51:26 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:51:26 --> Query error: Out of range value for column 'd3_rate' at row 1 - Invalid query: UPDATE `gc_reward_day` SET `d1_rate` = '0.1', `d2_rate` = '0.2', `d3_rate` = '2.0'
+WHERE `id` = '1'
+ERROR - 2018-12-18 09:51:34 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:51:59 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:09 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:09 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:09 --> Query error: Out of range value for column 'd3_rate' at row 1 - Invalid query: UPDATE `gc_reward_day` SET `d1_rate` = '0.1', `d2_rate` = '0.2', `d3_rate` = '1.0'
+WHERE `id` = '1'
+ERROR - 2018-12-18 09:52:29 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:35 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:35 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:36 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:41 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:41 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:41 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:54 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:54 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:59 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:52:59 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:53:11 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:53:11 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:53:24 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:53:24 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:53:24 --> Query error: Out of range value for column 'd3_rate' at row 1 - Invalid query: UPDATE `gc_reward_day` SET `d1_rate` = '0.1', `d2_rate` = '0.2', `d3_rate` = '1.0'
+WHERE `id` = '1'
+ERROR - 2018-12-18 09:54:30 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 09:54:30 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:01:13 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:01:14 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:01:32 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:01:32 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:01:48 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:01:48 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:01:53 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:01:53 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:02:10 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:02:10 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:02:35 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:02:56 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:02:56 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:03:06 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:03:06 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:03:12 --> Cache: Redis authentication failed.
+ERROR - 2018-12-18 10:03:12 --> Cache: Redis authentication failed.

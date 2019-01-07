@@ -1,0 +1,232 @@
+/*html { font-size: 62.5%;}*/
+/*首页*/
+.mui-content11{padding-top: 6px!important;padding-bottom: 50px!important;}
+/* 首页底部bar颜色 */
+.tabbar_color{background:#171719!important;}
+
+/*top页面*/
+.money{font-size:12px; float:right};
+
+/* 所有页面header修改 */
+.mui-bar-nav~.mui-content{padding-top:44px;margin-bottom:50px;}
+/*手机首页内容部分*/
+/*.mui-bar-nav~.mui-content.shouji{padding-top: 60px!important;}*/  
+
+.mui-content.open_content{margin-bottom: 0;}
+.mui-bar-nav.mui-bar .mui-icon{padding-left: 0;padding-top:6px;}
+
+.mui-bar-nav.mui-bar{background:#ec2f2f;}
+.mui-bar{height:44px;font-size: 36px;z-index: 200;}
+.mui-bar .mui-title{line-height:44px;font-size: 20px;}
+.mui-title.all_title{font-size: 20px;line-height:44px;}
+.mui-icon-back:before, .mui-icon-left-nav:before{font-size: 32px;}
+.mui-content{background:#f3f3f3;}
+.mui-table-view-cell>a:not(.mui-btn){margin:-11px -4px;}
+.mui-input-row select{font-size: 16px;}
+/*.mui-content.lottery_kind{padding:180px 0 60px 0;overflow: hidden;}*/
+.login_button{line-height:30px;} 
+
+.c_red{color:#ff1c1c;}
+.c_white{color: #FFFFFF;}
+.c_black{color:#000;}
+.c_yellow{color: yellow; }
+.c_gray{color:#000;}
+.linght_gray{color:#bbb;}
+.c_dardred{color:#c91b1b;}
+.button_color{background: #ec2929;}
+.c_orange{color:#ff7800;}
+.table_col{color: rgb(153, 0, 0);}
+.table_col2{color: rgb(255, 0, 0);}
+.table_col3{color: rgb(0, 0, 255);}
+.table_col4{color: rgb(0, 102, 51);}
+/* 球的边框颜色 */
+.b_red{border-color:#ff4b54!important;}
+.b_green{border-color:#74b65d!important;}
+.b_blue{border-color:#4ba8f6!important;}
+
+/* 加粗 */
+.fwb{font-weight: bold;}
+
+/* 居中 */
+.tac{text-align: center;}
+.tar{
+	text-align: right;
+}
+
+/* 字体大小 */
+.standard_font{font-size: 12px;}
+.min-font{font-size: 10px;}
+.f16{font-size: 16px;}
+.f14{font-size: 14px;}
+.f18{font-size: 18px;}
+
+.fl{float: left;}
+.fr{float: right;}
+.tar{text-align: right;}
+.clear{clear: both;}
+.mauto{margin: 0 auto;}
+.mui-bar{box-shadow: none;-webkit-box-shadow: none;}
+.font_ellipsis{text-overflow:ellipsis;white-space:nowrap;overflow: hidden;}
+.app-tabbar{background: #444;}
+a.top-title{
+	line-height:44px;
+	height:44px;
+	font-size;16px;
+}
+
+a.top-title:active{
+	color: #FFFFFF;
+}
+
+/* 边距 */
+.no_margin{margin: 0;}
+.p10{padding:10px;}
+.pl10{padding-left: 0px;}
+.pr10{padding-rgiht: 10px;}
+.pt10{padding-top: 10px;}
+.pb10{padding-bottom: 10px;}
+.pl20{padding-left: 20px;}
+.pr20{padding-rgiht: 20px;}
+.pt20{padding-top: 20px;}
+.pb20{padding-bottom: 20px;}
+.mt50{margin-top:44px;}
+.mr10{margin-right: 10px;}
+.mt10{margin-top: 10px;}
+.mb6{margin-bottom: 6px;}
+/* 手机页面修改为 */
+/*.mt50.shouji{margin-top:60px;}*/
+
+.pt180{padding-top: 145px!important;padding-bottom:50px;}
+
+.mb50{margin-bottom: 50px!important;}
+.mt20{margin-top: 20px;}
+.mb20{margin-bottom: 20px;}
+.mb10{margin-bottom: 10px;}
+/* 检测高度*/
+.ovh{overflow: hidden!important;}
+.ova{overflow: auto;}
+.dis_b{display: block;}
+
+/* 六合彩公共样式 -----圆的样式*/
+
+.cplist .rate{margin-top: 4px !important;}
+.cplist .qiu {overflow: hidden;padding-bottom:10px;border-bottom: 1px solid #ccc;}
+.cplist .qiu:nth-last-of-type(1){border:none;}
+.cplist .qiu li{width:19.2%;text-align: center;}
+.cplist .qiu li:nth-child(5n){margin-right: 2%;}
+.cplist .qiu li:nth-child(5n+1){margin-left: 2%;}
+.cplist .ball{
+	width:3.1rem;height:3.1rem;
+	border-radius:50%;
+	text-align: center;
+	/*line-height: 2.8rem;*/
+	font-size: 16px;
+	/*font-weight: bold;*/
+	border:1px solid #C7C7CC;
+	margin:0 auto;
+	display: table-cell;
+	vertical-align: middle;
+}
+.lhc_kj {line-height: 16px;}
+.cplist .ball.active{background:#c91b1b;color:#FFFFFF;border-color:#c91b1b;}
+.red_active{background:#ff4b54!important;color:#FFFFFF!important;}
+.green_active{background:#74b65d!important;color:#FFFFFF!important;}
+.blue_active{background:#4ba8f6!important;color:#FFFFFF!important;}
+
+
+
+/* 六合彩公共样式 -----方框的样式---半波*/
+div.square{margin-top: 26px;overflow: hidden;}
+.square .rate{margin-top: 0px !important}
+.square .qiu li{width:24%;text-align: center;padding:0 2%;}
+.square .qiu li:nth-child(4n){margin-right: 2%;}
+.square .qiu li:nth-child(4n+1){margin-left: 2%;}
+.square .ball{
+	height:3rem;
+	border-radius:6px;
+	text-align: center;
+	line-height:2.8rem;
+	font-size: 15px;
+	font-weight: bold;
+	background: #FFFFFF;
+	border:2px solid #C7C7CC;
+	color:#565656;
+}
+.square .ball.sx_active{background:#FFFFFF url(../../themes/images/line_05.png) no-repeat right bottom;border-color:red;background-size: 26%;}
+
+/* 六合彩公共样式 -----大方框的样式---生肖*/
+div.big_square{margin-top: 26px;}
+.big_square .rate{margin-top: 0px !important;text-align: center;}
+.big_square ul.sx_all{overflow: hidden;}
+.big_square .qiu li{width:30%;text-align: center;padding:0 2%;}
+.big_square .qiu li:nth-child(3n){margin-right: 5%;}
+.big_square .qiu li:nth-child(3n+1){margin-left: 5%;}
+.big_square .shengxiao{
+	height:4.6rem;
+	border-radius:6px;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	background: #FFFFFF;
+	border:2px solid #C7C7CC;
+	color:#565656;
+	padding-top: 4%;
+}
+p.animal_in{font-size: 30px;line-height: 38px;color:#565656;}
+p.animal_num{word-spacing:2px;font-weight: normal;line-height:22px;}
+.big_square .ball.sx_active{background:#FFFFFF url(../../themes/images/line_05.png) no-repeat right bottom;border-color:red;background-size: 26%;}
+.ball.shengxiao{position: inherit;left: 0 !important;}
+
+/* 下划线 */
+.cplist{margin-top: 20px;overflow: hidden;}
+.qiu h4{text-align:center;padding:0px 4px 6px 4px;color:#666;}
+.cplist{border-bottom:1px solid #ccc;}
+.cplist:nth-last-of-type(2){border-bottom:none;}
+.cplist.b_bottom{border-bottom:1px solid #ccc;}
+
+.bt{padding: 0 0 0 5px;margin: 0 0 10px 20px;background: url(../../themes/images/touzhu_qian_bg.png) no-repeat;
+    width: 62px;background-size: 52px 20px;line-height: 20px;box-sizing: border-box;font-size: 80%;   
+    color: #666;
+}
+
+/*  北京快乐10球*/
+.cplist .qiu.sx_all li.bj10_qiu{width:24%;text-align: center;margin:0;}
+.cplist .qiu.sx_all li.bj10_qiu:nth-child(4n){margin-right: 2%;}
+.cplist .qiu.sx_all li.bj10_qiu:nth-child(4n+1){margin-left: 2%;}
+.cplist .big_fangkuai{width:50px;height:30px;border-radius:6px;line-height: 30px;font-size: 15px;border:1px solid #C7C7CC;color:#fd0202;}
+.cplist .rate.bj10_rate{margin-top:2px !important;}
+
+/* 投注提示背景 */
+div.mui-toast-message{background:rgba(6, 6, 6, 0.8)!important;color:#FFFFFF!important;width:50%!important;}
+
+/* 定位 */
+.por{position: relative;}
+.poa{position: absolute;}
+.pof{position: fixed;}
+
+/* 右边侧滑 */
+.mui-off-canvas-right {
+    width: 45%;
+    /*菜单宽度 此处为修改后的宽度但是出现白边*/
+}
+
+/* 左边侧滑 */
+.mui-off-canvas-left {
+	width: 45%;
+	/*菜单宽度 此处为修改后的宽度但是出现白边*/
+}
+/*右侧侧滑*/
+.mui-off-canvas-wrap.mui-left .mui-inner-wrap {
+    -webkit-transform: translate3d(-45%, 0, 0);
+    transform: translate3d(-45%, 0, 0);
+}
+.rightmenu{
+	background-color:gray !important;   
+	
+}
+.mui-navigate-right{
+	color: white !important;
+}
+
+.mui-off-canvas-wrap.mui-active .mui-off-canvas-backdrop.lh_side{position: static;}
+

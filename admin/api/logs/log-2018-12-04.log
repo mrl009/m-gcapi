@@ -1,0 +1,7 @@
+ERROR - 2018-12-04 11:23:13 --> Cache: Redis authentication failed.
+ERROR - 2018-12-04 11:23:53 --> Cache: Redis authentication failed.
+ERROR - 2018-12-04 11:23:53 --> Severity: Warning --> Invalid argument supplied for foreach() /Users/mr.xiaolin/mnmp/gcapi/admin/api/controllers/setting/Setting.php 69
+ERROR - 2018-12-04 11:23:59 --> Cache: Redis authentication failed.
+ERROR - 2018-12-04 11:24:11 --> Cache: Redis authentication failed.
+ERROR - 2018-12-04 11:37:07 --> Cache: Redis authentication failed.
+ERROR - 2018-12-04 11:37:11 --> Cache: Redis authentication failed.

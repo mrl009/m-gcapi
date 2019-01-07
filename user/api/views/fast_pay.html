@@ -1,0 +1,25 @@
+<html>
+<head>
+    <!--支付测试表单提交-->
+    <title>跳转...</title>
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<p>支付测试...</p>
+<div style="margin:0 auto;width:260px;height:260px;">
+    <img src="https://www.qzgao.com/uploads//60acae62402161602deb9bb91748fd0c.jpg" 
+    higth="250px" width="250px">
+    <br />
+    <br />
+    <br />
+    <form id="form1" name="form1" method="POST" action="<?php echo $url ?>">
+    <?php foreach ($data  as $key => $vo ){  ?>
+    <input type="hidden" name="<?php echo $key ?>" value="<?php echo $vo ?>"/>
+    <?php } ?>
+    <input type="submit" value="不支付测试回调">
+</form>
+
+</div>
+
+</body>
+</html>

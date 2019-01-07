@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/css/mui.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/base.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/css/mymui.css"/>
+    <script src="/static/js/jquery.min.js"></script>
+</head>
+<body>
+<div class="charge_success mt50">
+    <div class="success_remind" style="padding:20px;">
+        <div class="remind_left fl">
+            <img  src="/static/images/cz_shenhe_03.png" alt="" style="max-width:100%;"/>
+        </div>
+        <ul class="remind_right fr">
+            <li>
+                <h3>您的申请已经提交成功</h3>
+                <p class="f14">金额：<?php echo $money; ?>元</p>
+            </li>
+            <li>
+                <h3><?php echo $type; ?>到账</h3>
+                <p class="f14"><?php echo $type; ?>充值成功后，您的余额将在1分种内更新，请稍后查看，若届时仍未更新，请联系在线客服。</p>
+            </li>
+        </ul>
+    </div>
+    <button id="nextBtn" class="mui-btn  mui-btn-block mui-btn-danger c_white charge_button">完成</button>
+</div>
+<script type="text/javascript">
+    $(function(){
+        $('#nextBtn').click(function(){
+            <?php echo $jsstr;?>
+            //JavaScript:window.location.href="http://www.baidu.com";
+        });
+        function getURL(){
+
+        };
+    })
+</script>
+</body>
+</html>
