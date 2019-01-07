@@ -1,0 +1,40 @@
+
+# 以'#'开始的行，被视为注释.
+# 忽略掉所有文件名是 tags 的文件.
+tags
+# 忽略所有.swp文件,
+*.swp
+*.log
+# 忽略tmp/
+tmp/
+user/wlog.txt
+user/api/cache/
+admin/api/cache/
+.tags
+.tags_sorted_by_file
+database.php
+redis.php
+config_dsn/
+.DS_Store
+.php_cs.cache
+php-cs-fixer.phar
+.project
+.idea/
+user/api/logs/ag/
+user/api/logs/dg/
+user/api/logs/lebo/
+user/api/logs/pt/
+user/api/logs/safe/
+user/api/logs/agentpay/
+user/api/logs/*.php
+admin/api/logs/safe/
+admin/api/logs/agentpay/
+admin/index.php
+user/index.php
+admin/api/config/config.php
+user/api/config/config.php
+init/dz/
+
+# 忽略 apidoc 自动生成的文档
+apidoc.json
+user/apidoc
